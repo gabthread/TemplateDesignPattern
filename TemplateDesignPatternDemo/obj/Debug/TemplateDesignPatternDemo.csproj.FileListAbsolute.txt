@@ -1,0 +1,9 @@
+c:\users\gonzalezg\documents\visual studio 2015\Projects\TemplateDesignPatternDemo\TemplateDesignPatternDemo\bin\Debug\TemplateDesignPatternDemo.exe.config
+c:\users\gonzalezg\documents\visual studio 2015\Projects\TemplateDesignPatternDemo\TemplateDesignPatternDemo\bin\Debug\TemplateDesignPatternDemo.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\TemplateDesignPatternDemo\TemplateDesignPatternDemo\bin\Debug\TemplateDesignPatternDemo.pdb
+c:\users\gonzalezg\documents\visual studio 2015\Projects\TemplateDesignPatternDemo\TemplateDesignPatternDemo\obj\Debug\TemplateDesignPatternDemo.csprojResolveAssemblyReference.cache
+c:\users\gonzalezg\documents\visual studio 2015\Projects\TemplateDesignPatternDemo\TemplateDesignPatternDemo\obj\Debug\TemplateDesignPatternDemo.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\TemplateDesignPatternDemo\TemplateDesignPatternDemo\obj\Debug\TemplateDesignPatternDemo.pdb
+C:\Gabriel\Blog\TemplateDesignPattern\TemplateDesignPatternDemo\bin\Debug\TemplateDesignPatternDemo.exe.config
+C:\Gabriel\Blog\TemplateDesignPattern\TemplateDesignPatternDemo\obj\Debug\TemplateDesignPatternDemo.exe
+C:\Gabriel\Blog\TemplateDesignPattern\TemplateDesignPatternDemo\obj\Debug\TemplateDesignPatternDemo.pdb
